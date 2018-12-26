@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'distant_galaxyregular';
+    src: url('fonts/DISTGRG_-webfont.eot');
+    src: url('fonts/DISTGRG_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/DISTGRG_-webfont.woff') format('woff'),
+         url('fonts/DISTGRG_-webfont.ttf') format('truetype'),
+         url('fonts/DISTGRG_-webfont.svg#distant_galaxyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+ul.nav a:hover { 
+	color: #ffff00 !important; 
+}
+
+body {
+	background-color: #777;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1, h2, h3, .navbar-brand, .foot-note { 
+   font-family: 'distant_galaxyregular', serif;   
+} 
+
+.yellow {
+	color: #ffff00;
+}
+
+.red {
+	color: #ff0000;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #ffff00;
+}
+
+.jumbotron {
+	background-color: #000;
+	color: #ffff00;
+}
