@@ -1,0 +1,1 @@
+[29-Dec-2018 20:01:37 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home1/nestofsaws/chirpercore/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18
